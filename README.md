@@ -1,4 +1,7 @@
 # 2014136030
-5조14학번 김쾌남
-#### 시연영상
+5조 14학번 김쾌남
+#### 시연영상 1번
 # https://youtu.be/rNzBB8OyBcg
+
+#### 시연영상 2번
+# https://youtu.be/qIR4c-4s3OM
